@@ -1,0 +1,4 @@
+res://Start.tscn
+res://Playground.tscn
+res://Player/player.tscn
+res://Player/Scripts/Player.gd
